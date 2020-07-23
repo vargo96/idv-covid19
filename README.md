@@ -7,4 +7,9 @@ This repository contains some visualizations for COVID-19 data by University of 
 4. **Assignment5-ThePythonTechies.py**: This is the python code file for all the visualizations.
 5. **COVID-19 Concept Paper.pdf**: This file is a concept paper which was created as a design before implementation.
 
-The output of the python code file (i.e. all visualizations) is integrated into a dash application. After running the .py code file, the output can be seen by clicking the dash URL in the python console.
+The output of the python code file (i.e. all visualizations) is integrated into a dash application. After running the .py code file, the output can be seen by clicking the dash URL in the python console. For more detailed information please refer **COVID-19 Concept Paper.pdf** and **Assignment5 - Basic Information Sheet.pdf**.
+
+The integrated dash view with all the visualizations can be seen in the following image:
+
+
+![alt text](https://github.com/vargo96/idv-covid19/blob/master/dash.PNG?raw=true "Dash application with all the visualizations")
