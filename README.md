@@ -7,7 +7,7 @@ This repository contains visualizations for COVID-19 data by University of Oxfor
 4. **Assignment5-ThePythonTechies.py**: This is the python code file for all the visualizations.
 5. **COVID19_Concept_Paper.pdf**: This file is a concept paper which was created as a design before implementation.
 
-The output of the python code file (i.e. all visualizations) is integrated into a dash application. After running the .py code file, the output can be seen by clicking the dash URL in the python console. For more detailed information please refer **COVID-19 Concept Paper.pdf** and **Assignment5 - Basic Information Sheet.pdf**.
+The output of the python code file (i.e. all visualizations) is integrated into a dash application. After running the .py code file, the output can be seen by clicking the dash URL in the python console. For more detailed information please refer **COVID19_Concept_Paper.pdf** and **Assignment5_Basic_Information_Sheet.pdf**.
 
 The integrated dash view with all the visualizations (tab view) can be seen in the following image:
 
